@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: yellow;
+}
+
+body {
+    background-color: lime;
+    background-image: url(../img/jo-bonten.jpg);
+    background-size: 50px;
+}
+
+img {
+    border: 20px dashed brown;
+}
+
+#speciaal {
+    border-color: purple;
+}
